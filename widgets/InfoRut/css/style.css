@@ -1,0 +1,49 @@
+.info-rut h3 {
+  font-size: 1.2em;
+}
+.info-rut h3, p {
+  margin-top: 0;
+}
+/* add additional custom styles */
+
+/* add additional custom styles */
+.info-rut p {
+  text-align: justify;
+  font-size: 16px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border:black, solid, 10px;
+  margin: 10px;
+  padding: 10px;
+
+  
+}
+.info-rut{
+  background-image: url(https://i.pinimg.com/originals/03/03/3c/03033c6690fd3475f5c4ccc357de0e9a.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+
+.info-rut button{
+  border-radius: 8px;
+  border-style: ridge;
+  margin:10px;
+  align-items: center;
+  text-align: center;
+  padding:0px;
+  background-color: transparent;
+}
+.info-rut button:hover{
+  background-color:  #ffe600;
+  border: yellow, 2px, dashed;
+}
+.info-rut .caja {
+  background-color: #e6e339d5;
+  color: black;
+  border-color: rgba(0, 0, 0, 0.75);
+  border-width: 2px;
+  border-style: dashed;
+  align-items: center;
+  text-align: center;
+  border-radius: 25px;
+}

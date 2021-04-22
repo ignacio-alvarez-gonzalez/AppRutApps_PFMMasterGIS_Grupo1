@@ -1,0 +1,29 @@
+.survey123 h3 {
+  font-size: 1.2em;
+}
+.survey123 h3, p {
+  margin-top: 0;
+}
+/* add additional custom styles */
+.divi{
+  border: none;
+  border-radius: 50%;
+  align-items: center;
+  align-self: center;
+  background-color: transparent;
+  padding: 5px;
+}
+.logo{
+  border-radius: 50%;
+
+}
+.logo:hover{
+  width: 150px;
+  height: 150px;
+}
+.divi:hover{
+  background-color: yellowgreen;
+  border-color: black;
+  border-style: dotted;
+  border:2px;
+}
